@@ -6,7 +6,7 @@ This README file provides an in-depth explanation of the code for the hackathon 
 ## Project Structure
 The project comprises several components:
 
-1. **Python Code**: The main code file (`hackathon_project.py`) contains the Python code for data preprocessing, feature engineering, model training, and prediction generation.
+1. **Python Code**: The main code file contains the Python code for data preprocessing, feature engineering, model training, and prediction generation.
 2. **Data Files**: The project uses several CSV files:
    - `waiting_times_train.csv`: Contains historical waiting time data for training.
    - `waiting_times_X_test_final.csv`: Contains waiting time data for generating predictions.
@@ -40,7 +40,7 @@ The project requires the following Python libraries:
 ## Instructions for Running the Code
 1. Ensure all required data files (`waiting_times_train.csv`, `waiting_times_X_test_final.csv`, `weather_data.csv`) are placed in the same directory as the code file.
 2. Install the necessary Python dependencies.
-3. Run the `hackathon_project.py` script.
+3. Run the script.
 4. After execution, check the `predictions_final.csv` file for the generated predictions.
 
 ## Notes
